@@ -1,0 +1,19 @@
+{
+    "name": "mouhamed.yessoufou/php_poo",
+    "type": "library",
+    "require": {
+        "ramsey/uuid" : "^4.7"
+    },
+    "authors": [
+        {
+            "name": "Yesfaris",
+            "email": "yesfaris4524@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           "App\\": "./src"
+        }
+    }
+
+}
